@@ -19,7 +19,8 @@ This project provides an end-to-end data analytics solution for a retail financi
 ---
 
 ## 📊 Interactive Dashboard
-[![](https://img.shields.io/badge/View_Live_Dashboard-Click_Here-blue?style=for-the-badge&logo=powerbi)]((https://app.powerbi.com/links/AordaXyeEK?ctid=a58978f7-efcb-4b53-bd81-8361fa13fa5c&pbi_source=linkShare))
+You can view the live, interactive dashboard here: 
+[Live Financial Trend Analysis Dashboard](https://app.powerbi.com/links/AordaXyeEK?ctid=a58978f7-efcb-4b53-bd81-8361fa13fa5c&pbi_source=linkShare)
 
 *(Note: If the live link is unavailable, please refer to the `screenshots/` folder or the `Financial_Report.pdf` in this repository.)*
 
